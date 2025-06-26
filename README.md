@@ -1,5 +1,4 @@
-## Hello Everone 👋
-
+## Hello Everone 👋 My Name is Lovish Kaushik
 
 <h3 align="left">Languages and Tools:</h3>
 
