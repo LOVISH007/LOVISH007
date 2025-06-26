@@ -1,5 +1,7 @@
 ## Hello Everone 👋 My Name is Lovish Kaushik
 
+Computer Science Engineering student Exploring Machine Learning and Artificial Intelligence
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
